@@ -1,0 +1,6 @@
+Menta,5
+Musetel,3
+Sunatoare,2
+Malonca,3
+Galbenele,4
+Menta,324
