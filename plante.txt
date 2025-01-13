@@ -1,8 +1,8 @@
-Menta,74,3.75
-Musetel,30,2.5
-Sunatoare,20,4.0
-Galbenele,36,3.2
-Lavanda,22,5.5
-Malonca,2,11.0
-Coconut,0,12.0
-Cacalonca,3,54.0
+Menta,23,6.0
+Musetel,133,8.0
+Galbenele,88,7.0
+Lamaita,432,4.0
+Busuioc,500,2.0
+Echinacea,54,9.0
+Oregano,198,3.0
+Usturoi,296,3.0

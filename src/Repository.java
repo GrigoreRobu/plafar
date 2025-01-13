@@ -70,7 +70,15 @@ public class Repository {
                 if (planta.getCantitateDisponibila() < cantitate) {
                     throw new IllegalArgumentException("Cantitatea solicitata depaseste stocul disponibil!");
                 }
+                // Update the quantity
                 planta.setCantitateDisponibila(planta.getCantitateDisponibila() - cantitate);
+
+                // Check if quantity reaches 0
+                if (planta.getCantitateDisponibila() == 0) {
+                    plante.remove(planta);
+                }
+
+                // Save changes
                 salveazaVanzare(denumire, cantitate);
                 salveazaPlante();
                 return;

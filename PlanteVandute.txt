@@ -1,11 +1,3 @@
-Menta,5
-Musetel,3
-Sunatoare,2
-Malonca,3
-Galbenele,4
-Menta,3
-Malonca,10
-Coconut,2
-Lavanda,3
-Malonca,12
-Coconut,21
+Oregano,2
+Usturoi,4
+Galbenele,1
