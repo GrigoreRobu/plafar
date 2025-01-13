@@ -1,6 +1,8 @@
-Menta,-274,3.75
+Menta,74,3.75
 Musetel,30,2.5
 Sunatoare,20,4.0
 Galbenele,36,3.2
-Lavanda,25,5.5
-Malonca,20,11.0
+Lavanda,22,5.5
+Malonca,2,11.0
+Coconut,0,12.0
+Cacalonca,3,54.0

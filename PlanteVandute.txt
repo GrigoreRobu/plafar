@@ -3,4 +3,9 @@ Musetel,3
 Sunatoare,2
 Malonca,3
 Galbenele,4
-Menta,324
+Menta,3
+Malonca,10
+Coconut,2
+Lavanda,3
+Malonca,12
+Coconut,21
